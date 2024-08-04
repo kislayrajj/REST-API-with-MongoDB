@@ -1,0 +1,8 @@
+# Node modules directory
+node_modules/
+
+# # Log files
+# log.txt
+
+# Dependency directories
+package-lock.json
